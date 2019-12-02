@@ -12,3 +12,5 @@ sudo add-apt-repository ppa:plt/racket
 sudo apt update
 sudo apt install racket
 ```
+After installation open languages then select Others and then selec R5RS.
+
