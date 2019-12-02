@@ -1,0 +1,4 @@
+(Define (HelloWorld var)
+        (display var))
+
+(HelloWorld "Hello World")
