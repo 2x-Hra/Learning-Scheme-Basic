@@ -1,4 +1,4 @@
-;; you can define a list with " ' "
+;; you can define a list with " ' " ;;
 ;For example :
 (Display '(1 2 3))
 (newline) ; it's like \n in other languages 
