@@ -2,8 +2,9 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Use ";" for commenting ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-(Define (HelloWorld var)
-        (display var))
+(Define (HelloWorld var) ;HelloWorld is the name of the Function
+                         ;; and its parameter is var
+        (display var))   ;;its gonna print var in the console 
 
-(HelloWorld "Hello World")
+(HelloWorld "Hello World") ; i called the function and passed it a var ="Hello World"
 
