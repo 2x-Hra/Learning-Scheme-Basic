@@ -14,7 +14,8 @@ sudo apt update
 sudo apt install racket
 ```
 #### Windows
-Go install from DrRacket website :) <br />
+Go install from [DrRacket](https://racket-lang.org/) website : <br />
+
 <br />
 After installation open languages then select Others and then selec R5RS.
 
